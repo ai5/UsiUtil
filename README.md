@@ -15,7 +15,7 @@ USI対応GUI <-> USIClient <-> USIConnect<-> エンジン
 
 ### 使い方
 
-*USIConnectを実行する。  　　
+*USIConnectを実行する。  
 *開始ボタンを押す。  
 *USIClient.exe.configの内容を適当に書き換えるか、コマンドラインオプションを以下のようにして実行する。  
 'UsiClient -h localhost -p 53556 gpsfish\gpsfish.exe'  
