@@ -121,7 +121,7 @@ namespace UsiClient
         /// <param name="args"></param>
         private static void ParseArgs(string[] args)
         {
-            for (int i = 1; i < args.Length; i++)
+            for (int i = 0; i < args.Length; i++)
             {
                 string str = args[i];
 
